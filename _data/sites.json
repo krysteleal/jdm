@@ -33,6 +33,18 @@
     },
 
     {
+        "name": "16 Personalities",
+        "url": "https://www.16personalities.com/profile/preferences",
+        "difficulty": "easy",
+        "notes": "Go to \"Profile > Preferences\" and click on Delete.",
+        "notes_pt_br": "Vá para \"Profile > Preferences\" e clique em Delete.",
+        "notes_fr": "Allez sur \"Profile > Preferences\" et confirmez votre choix en cliquant Delete.",
+        "domains": [
+            "16personalities.com"
+        ]
+    },
+
+    {
         "name": "280daily",
         "url": "https://280daily.com/settings/delete",
         "difficulty": "easy",
